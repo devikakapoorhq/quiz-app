@@ -1,8 +1,25 @@
-# React + Vite
+# 🧠 React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and interactive Quiz App built with **React** as part of the "30 Days of React Projects" challenge. The app allows users to take multiple-choice quizzes, view their score in real time, and restart the quiz anytime.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🚀 Features
+
+- ✅ Multiple-choice questions
+- 🎯 Real-time scoring
+- 🔁 Option to retake the quiz
+- ⚡ Smooth and interactive UI
+- 📱 Responsive design for all devices
+
+
+
+##  Built With
+
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5 + CSS3**
+- **React Hooks** (`useState`, `useEffect`)
+
+
+
