@@ -1,6 +1,6 @@
 # 🧠 React Quiz App
 
-This is a simple and interactive Quiz App built with **React** as part of the "30 Days of React Projects" challenge. The app allows users to take multiple-choice quizzes, view their score in real time, and restart the quiz anytime.
+This is a simple and interactive Quiz App built with **React**. The app allows users to take multiple-choice quizzes, view their score in real time, and restart the quiz anytime.
 
 
 
